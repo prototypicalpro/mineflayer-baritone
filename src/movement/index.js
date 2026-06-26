@@ -168,7 +168,7 @@ class Move {
     this.COST_NORMAL = 1;
     this.COST_UP = 1.5;
     this.COST_FALL = 1.5;
-    this.COST_BREAK = 1.2;
+    this.COST_BREAK = 2;
     this.COST_PLACE = 1.2;
     this.COST_SWIM = 1;
     this.COST_SWIM_START = 1.1;
